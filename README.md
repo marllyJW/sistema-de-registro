@@ -8,4 +8,4 @@ para ejecutar el sistema,debes poner:
 
 Sistema de Registro 2
 
-mi oroyecto
+mi proyecto
